@@ -1,4 +1,0 @@
-create layer first
-current first
-checkerboard 10
-save scriptTest2.ppm
